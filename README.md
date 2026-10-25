@@ -18,20 +18,12 @@ I am a **Data Analyst** passionate about turning complex, raw numbers into clear
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Data Analysis & Wrangling** | `Excel` (Power Query, Pivot Tables, VBA) :vhs: |
-| **Database Queries** | `SQL` (PostgreSQL, MySQL, SQL Server) :minidisc: |
-| **Data Visualization** | `Tableau` (Interactive Dashboards, Storytelling) :paint_brush: |
+| **Data Analysis & Wrangling** | `Excel` (Power Query, Pivot Tables, VBA) |
+| **Database Queries** | `SQL` (PostgreSQL, MySQL, SQL Server)  |
+| **Data Visualization** | `Tableau` (Interactive Dashboards, Storytelling)  |
 
 
 ---
-
----
-
-### :bar_chart: GitHub Metrics & Activity
-
-<!-- This is an extra widget that automatically pulls your real-time GitHub data! Just replace "your-username" with your actual username -->
-![[tarabyte-ultra](https://github.com/tarabyte-ultra)](https://vercel.app)
-![Top Langs](https://vercel.app)
 
 ---
 
