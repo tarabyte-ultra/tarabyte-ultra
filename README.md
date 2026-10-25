@@ -5,14 +5,13 @@
 ### Bridging the gap between raw data and business strategy :bridge_at_night:
 
 
-I am a **Data Analyst** passionate about turning complex, raw numbers into clear, business strategies. :light_bulb: I love uncovering patterns, building dashboards, and telling stories through data. :bar_chart:
+I am a **Data Analyst** passionate about turning complex, raw numbers into clear, business strategies. I love uncovering patterns, building dashboards, and telling stories through data. :bar_chart:
 
 
 - :telescope: **What I'm focused on:** Enhancing data pipelines and predictive modeling.
 - :seedling: **Currently learning:** Advanced Python automation and machine learning basics.
 - :speech_balloon: **Ask me about:** Data cleaning, dashboard optimization, or anything logic-based.
 ---
-:bridge_at_night: ---------------------------------------------------- :bridge_at_night:
 ---
 
 ### :computer: My Tech Stack & Toolkit
@@ -31,10 +30,9 @@ I am a **Data Analyst** passionate about turning complex, raw numbers into clear
 ### :bar_chart: GitHub Metrics & Activity
 
 <!-- This is an extra widget that automatically pulls your real-time GitHub data! Just replace "your-username" with your actual username -->
-![Your GitHub Stats](https://vercel.app)
+![[tarabyte-ultra](https://github.com/tarabyte-ultra)](https://vercel.app)
 ![Top Langs](https://vercel.app)
 
-:bridge_at_night: ---------------------------------------------------- :bridge_at_night:
 ---
 
 
